@@ -1,0 +1,8 @@
+parameter,value
+cyles_pa,365
+electricity_price,0
+system_lifetime,15.0
+round_trip_eff, 0.90
+time_degradation,0.0148
+DoD,0.8
+res_value,0.0

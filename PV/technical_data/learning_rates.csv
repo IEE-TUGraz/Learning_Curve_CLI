@@ -1,0 +1,5 @@
+parameter,value
+capex_module_LR,0.3
+capex_inverter_LR,0.2
+capex_BOS_LR,0.075
+

@@ -1,0 +1,6 @@
+parameter,value
+capex_module_base,528.0
+capex_inverter_base,311.01
+capex_BOS_base,839.32
+opex_share,0.015
+yield_base,1168.0

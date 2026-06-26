@@ -1,0 +1,8 @@
+paths:
+  baseline_values: ../technical_data/baseline_values_household.csv
+  cumulative_installations: ../general_data/cumulative_installations_IEA_APS_2024.csv
+  financial_parameters: ../general_data/financial_parameters_household.csv
+  learning_rates: ../technical_data/learning_rates.csv
+  technical_parameters: ../technical_data/technical_parameters.csv
+
+  

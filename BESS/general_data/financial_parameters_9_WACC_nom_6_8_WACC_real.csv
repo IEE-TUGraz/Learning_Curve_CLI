@@ -1,0 +1,6 @@
+parameter,value
+debt_ratio,0.8
+corporate_tax,0
+interest_debt,0.082
+interest_equity,0.12
+inflation_rate,0.02

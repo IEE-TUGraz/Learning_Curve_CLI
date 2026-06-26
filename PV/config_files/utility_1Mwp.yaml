@@ -1,0 +1,6 @@
+paths:
+  baseline_values: ../technical_data/baseline_values_1Mwp_median_yield.csv
+  cumulative_installations: ../general_data/cumulative_installations_IEA_APS_2024.csv
+  financial_parameters: ../general_data/financial_parameters_5_WACCnom_3_real.csv
+  learning_rates: ../technical_data/learning_rates.csv
+  technical_parameters: ../technical_data/technical_parameters.csv

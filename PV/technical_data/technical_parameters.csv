@@ -1,0 +1,4 @@
+parameter,value
+degradation_rate,0.0025
+system_lifetime,30.0
+res_value, 0.0
